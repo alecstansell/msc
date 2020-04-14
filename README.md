@@ -1,7 +1,6 @@
-
 # Masters
 
-My masters thesis, code and disertation.
+My masters thesis, code and results.
 
 Title:  Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of HIV-1 Elite Control
 
@@ -17,11 +16,8 @@ Title:  Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of H
 
 ## Conferences
 
-1. [*Attitudes towards outreach in particle physics*](https://github.com/RaoOfPhysics/201605_CERN-DSA) (presented at CERN Doctoral Student Assembly 2016)
-    - [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51285.svg)](http://dx.doi.org/10.5281/zenodo.51285)
+1. Stansell, AC., and Gentle, N. (2019), Unsupervised Learning to Uncover Gene Co-expression Networks. Molecular Biosciences Research Thrust Annual Research Day. University of the Witwatersrand Johannesburg
+
+2. Stansell, AC., and Gentle, N. (2019), Unsupervised Learning Techniques for Identifying Gene Co-expression Networks Within The Context Of HIV-1 Elite Control. Cross Faculty Postgraduate Symposium. University of the Witwatersrand, Johannesburg South Africa
 
 ---
-
-[![](https://img.shields.io/badge/Licence-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-I "liberate" this wonderful list of links into the public domain. :)
