@@ -1,5 +1,5 @@
 
-# The Master Script For Masters
+# Alec Stansell's Masters
 
 My masters thesis, code and disertation.
 
