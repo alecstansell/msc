@@ -1,25 +1,19 @@
 
-# Alec Stansell's Masters
+# Masters
 
 My masters thesis, code and disertation.
 
 Title:  Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of HIV-1 Elite Control
 
-## Documents
+## Contents
 
 - [Thesis](https://github.com/alecstansell/thesis)
 
-## Code 
-
 - [Code](https://github.com/alecstansell/code)
    
-## Results and Figures
-
 - [Results](https://github.com/alecstansell/code)
    
-## Presentations
-
-- [Results](https://github.com/alecstansell/code)
+- [Presentations](https://github.com/alecstansell/code)
 
 ## Conferences
 
