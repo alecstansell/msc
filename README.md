@@ -4,7 +4,7 @@ My masters thesis, code and results.
 
 Title:  Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of HIV-1 Elite Control
 
-## Contents
+### Contents
 
 - [Thesis](https://github.com/alecstansell/thesis)
 
@@ -14,7 +14,7 @@ Title:  Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of H
    
 - [Presentations](https://github.com/alecstansell/code)
 
-## Conferences
+### Conferences
 
 1. Stansell, AC., and Gentle, N. (2019), Unsupervised Learning to Uncover Gene Co-expression Networks. Molecular Biosciences Research Thrust Annual Research Day. University of the Witwatersrand Johannesburg
 
