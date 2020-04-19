@@ -1,16 +1,19 @@
-# Masters
+# masters
 
-My masters thesis, code and results.
-
-Title:  Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of HIV-1 Elite Control
+masters repos including code, thesis and presentations
 
 ### Contents
 
 - [Code](https://github.com/alecstansell/code)
-
-- [Thesis](https://github.com/alecstansell/thesis)
+  - ![](https://img.shields.io/badge/status-available-brightgreen)
   
 - [Presentation](https://prezi.com/view/VB8c1Geqoy8QndU8WK7t/)
+  - ![](https://img.shields.io/badge/status-available-brightgreen)
+
+- [Thesis](https://github.com/alecstansell/thesis)
+  - ![](https://img.shields.io/badge/status-available--on--request-blue)
+  
+Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of HIV-1 Elite Control
 
 ### Presentations
 
