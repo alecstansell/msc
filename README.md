@@ -9,9 +9,7 @@ Title:  Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of H
 - [Code](https://github.com/alecstansell/code)
 
 - [Thesis](https://github.com/alecstansell/thesis)
- 
-- [Results](https://github.com/alecstansell/code)
-   
+  
 - [Presentation](https://prezi.com/view/VB8c1Geqoy8QndU8WK7t/)
 
 ### Presentations
