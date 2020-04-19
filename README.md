@@ -13,7 +13,6 @@ masters repos including code, thesis and presentations
 - [Thesis](https://github.com/alecstansell/thesis)
   - ![](https://img.shields.io/badge/status-available--on--request-blue)
   
-Transcriptional Profiling of CD4+ T Cell Subsets Within The Context of HIV-1 Elite Control
 
 ### Presentations
 
