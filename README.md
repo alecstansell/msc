@@ -2,18 +2,18 @@
 
 masters repos including code, thesis and presentations
 
-### Contents
+### contents
 
-- [Code](https://github.com/alecstansell/code)
+- [code](https://github.com/alecstansell/code)
   - ![](https://img.shields.io/badge/status-available-brightgreen)
   
-- [Presentation](https://prezi.com/view/VB8c1Geqoy8QndU8WK7t/)
+- [presentation](https://prezi.com/view/VB8c1Geqoy8QndU8WK7t/)
   - ![](https://img.shields.io/badge/status-available-brightgreen)
 
-- [Thesis](https://github.com/alecstansell/thesis)
+- [thesis](https://github.com/alecstansell/thesis)
   - ![](https://img.shields.io/badge/status-available--on--request-blue)
   
-- [Results](https://github.com/alecstansell/results)
+- [results](https://github.com/alecstansell/results)
   - ![](https://img.shields.io/badge/status-available--on--request-blue)
   
 
